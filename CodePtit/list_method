@@ -1,0 +1,9 @@
+## append(value): thêm 1 phần tử vào cuối cùng của 1 list
+## pop: xóa 1 phần tử cuối cùng của 1 list(trong trường hợp
+list bị rỗng mà vẫn cố tình xóa => IndexError: pop from empty list)
+## count(value): tìm cái tần xuất xuất hiện của 1 giá trị
+## index(value): tìm ra chỉ số đầu tiên xuất hiện của phần tử(trong
+trường hợp nếu list không có value truyền vào => ValueError: value is not in list)
+## insert(pos , value): chèn thêm phần tử vào vị trí được truyền vào
+## remove(value): xóa đi giá trị của phần tử value
+
